@@ -23,3 +23,10 @@ resistance is inevitable.
 so is victory 
 
 so is victory
+
+
+
+
+
+
+First blog on netlify Gatsby CMS
