@@ -4,9 +4,11 @@ title: "Coffee + Code ጸደቀ: ምልክት"
 date: 2023-12-14T07:43:42.496Z
 description: "First blog on netlify Gatsby CMS "
 featuredpost: true
-featuredimage: /img/img_7908.jpeg
+featuredimage: /img/img_8214.jpeg
 ---
-# Coffee & Code 
+# Coffee & Code
+
+![a coffee table with cup, laptop, book and EarPods case](/img/img_7908.jpeg "Coffee Code Art ")
 
 who knew, one year ago that I‘d be here, coding and coffeeing. but here I am after all the tumults of the past year  
 
