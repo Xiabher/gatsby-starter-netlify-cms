@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: "Coffee Code Art ጸደቀ: ምልክት"
 date: 2023-12-14T07:43:42.496Z
-description: "First blog on netlify Gatsby CMS "
+description: "እሣት : ውሃ : ንፋስ : ምድር First blog on netlify Gatsby CMS "
 featuredpost: true
 featuredimage: /img/img_7908.jpeg
 tags:
